@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://salvadorportas.netlify.app/sitemap.xml
+Sitemap: https://salvador-portas.vercel.app/sitemap.xml
